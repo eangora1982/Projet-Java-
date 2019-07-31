@@ -1,0 +1,17 @@
+
+le projet est fullstack
+
+Une partie en java 8  SPRING MVC
+Cette partie répésente l'API restful
+Le server SPRING doit se lancer, mais avant créer une base de données MYSQL
+Nom base de données : dbcontacts
+La table se crée automatiquement
+La partie backoffice ne fonctionnera que si le serveur SPRING est lancé correctement
+Le code n'est pas long pour l'instant, au fur et à mesure il grandira
+
+Une autre partie en FRONT en Angular6
+
+IL faut installer nodejs et toutes les dépendances.
+Ensuite lancer le server côté front : npm start
+Côté backend : se rendre dans le dossier backend et lancer : npm start
+ 
