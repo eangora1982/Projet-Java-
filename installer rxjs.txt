@@ -1,0 +1,4 @@
+Version6 angular
+npm install rxjs --save
+
+npm i --save rxjs-compat

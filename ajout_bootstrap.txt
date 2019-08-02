@@ -1,0 +1,6 @@
+//lien recuperation des données boostrap
+www.bootstrapcdn.com
+
+Création de panel 
+
+getbootstrap.com/components/

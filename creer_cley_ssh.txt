@@ -1,0 +1,5 @@
+https://www.ovh.com/manager/web/index.html#/configuration
+compte: ehueni.angora@gmail.com
+Kadio@1982
+
+https://docs.ovh.com/fr/public-cloud/creation-des-cles-ssh/

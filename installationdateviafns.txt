@@ -1,0 +1,12 @@
+librairie qui de gerer les dates de façon moderne
+
+https://date-fns.org
+
+npm install date-fns --save
+plutôt
+
+npm install date-fns @types/date-fns
+
+On cree un dossier pipes dans app
+
+on l'installe ng g pipe days-ago
